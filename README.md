@@ -30,7 +30,7 @@ Participants should have some familiarity with the research process.
 | --- | --- |
 | 09:00AM - 09:30AM | Course overview & [Pre-class survey](https://goo.gl/forms/p2Q84JQNXJmKnn4P2) |
 | 09:30AM - 11:00AM | Module 1: [How Did We Get Here & Where Are We Going](./1-TheBigPicture.ipynb) |
-| 11:00AM - 11:15AM | Breaking |
+| 11:00AM - 11:15AM | Break |
 | 11:15AM - 12:30PM | Module 2: [File Management](./2-FileManagement.ipynb) |
 | 12:30PM - 01:30PM | Lunch |
 | 01:30PM - 03:30PM | Module 3: [Data Management](./3-DataManagement.ipynb)|
