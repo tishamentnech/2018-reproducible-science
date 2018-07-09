@@ -22,7 +22,6 @@ Participants should have some familiarity with the research process.
 | --- | --- |
 | **Mail** | Spencer S. Eccles Health Sciences Library, The University of Utah, 10 N 1900 E, SLC, UT 84112 |
 | **Email** | [tisha.mentnech@utah.edu](mailto:tisha.mentnech@utah.edu) |
-| **Twitter** | [http://twitter.com/tishamentnech](@tishamentnech) |
 ## Schedule
 
 ### Monday, July 9
