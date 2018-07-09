@@ -1,0 +1,14 @@
+links for https://nbviewer.jupyter.org/
+
+module 1: https://github.com/tishamentnech/2018-reproducible-science/blob/master/1-TheBigPicture.ipynb
+
+module 2: https://github.com/tishamentnech/2018-reproducible-science/blob/master/2-FileManagement.ipynb
+
+module 3: https://github.com/tishamentnech/2018-reproducible-science/blob/master/3-DataManagement.ipynb
+
+module 4: 
+
+module 5: https://github.com/tishamentnech/2018-reproducible-science/blob/master/5-ResearchDissemination.ipynb
+
+module 6: https://github.com/tishamentnech/2018-reproducible-science/blob/master/6-Synthesis.ipynb
+
