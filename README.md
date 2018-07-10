@@ -44,15 +44,14 @@ Participants should have some familiarity with the research process.
 | Time | Topic |
 | --- | --- |
 | 09:00AM - 09:15AM | Reflection |
-| 09:15AM - 11:25AM | Module 4, [ResearchTool Kit](./4_1-BuildYourToolkit.ipynb) |
-| 11:25PM - 11:30AM | Break |
-| 11:30AM - 12:30PM | Module 4, Continued [Research Toolkit](./4_2-BuildYourToolkit.ipynb) |
-| 12:30PM - 01:30PM | Lunch |
-| 01:30PM - 2:00PM | Module 5: [Research Dissemination](./5-ResearchDissemination.ipynb) |
-| 02:00PM - 02:15PM | Break |
-| 02:15PM - 03:45PM | Module 6: [Final Synthesis](./6-Synthesis.ipynb) |
-| 03:45PM - 04:15PM | Wrap Up & [Post-class Survey](https://goo.gl/forms/DjtKrA2hacJvooCC3)
-
+| 09:15AM - 12:00PM | Module 4: [Research Toolkit](./4-ResearchToolkit.ipynb) |
+| 12:00PM - 01:00PM | Lunch & [Guest Speaker](https://datascience4health.bmi.utah.edu/mike-conway-phd/) |
+| 01:00PM - 01:30PM | Module 4: [Research Toolkit](./4-ResearchToolkit.ipynb) |
+| 01:30PM - 02:00PM | Module 5: [Research Dissemination](./5-ResearchDissemination.ipynb) |
+| 02:00PM - 03:00PM | Module 6: [Final Synthesis](./6-Synthesis.ipynb) |
+| 03:00PM - 03:30PM | Coffee Break outside HSEB 5100 C |
+| 03:30PM - 04:00PM | Module 6: [Final Synthesis](./6-Synthesis.ipynb) |
+| 04:00PM - 04:25PM | Wrap Up & [Post-class Survey](https://goo.gl/forms/DjtKrA2hacJvooCC3)
 
 
 ---
