@@ -6,7 +6,7 @@ module 2: https://github.com/tishamentnech/2018-reproducible-science/blob/master
 
 module 3: https://github.com/tishamentnech/2018-reproducible-science/blob/master/3-DataManagement.ipynb
 
-module 4: 
+module 4: https://github.com/tishamentnech/2018-reproducible-science/blob/master/4-ResearchToolkit.ipynb
 
 module 5: https://github.com/tishamentnech/2018-reproducible-science/blob/master/5-ResearchDissemination.ipynb
 
